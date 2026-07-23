@@ -302,7 +302,7 @@ Lagos-Rent-Prediction/
 │      └── Lagos Rent Prediction.ipynb
 │
 ├── Model/
-│      └── lagos_rent_model.pkl
+│      └── lagos_rent_model.pkl 
 │
 ├── Images/
 │      ├── EDA
